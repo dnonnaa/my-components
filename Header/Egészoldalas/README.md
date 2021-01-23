@@ -1,0 +1,1 @@
+Egészoldalas header, kis szöveggel.
