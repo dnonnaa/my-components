@@ -1,0 +1,1 @@
+Ragadós footer készítése
